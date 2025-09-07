@@ -1,0 +1,7 @@
+{
+    "email" : "your email",
+    "password" : "your password",
+    "keywords" : "Software Development Engineer",
+    "location" : "India",
+    "driver_path" : "msedgedriver.exe path from your device"
+}
